@@ -4,7 +4,7 @@ class Dog
   end
   def sits
     puts "The Dog is sitting"
-end
+  end
 
 class Person
   def talk

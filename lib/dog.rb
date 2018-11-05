@@ -5,7 +5,7 @@ class Dog
   def sits
     puts "The Dog is sitting"
   end
-
+end
 class Person
   def talk
     puts  "Hello World!"
